@@ -14,6 +14,7 @@ pip install pyttsx3 // 4
 -------------------------------
 
 change your voice
+
 (2)
 
  go to // All Settings -> Time & Language -> Speech
@@ -23,6 +24,7 @@ You can use another language.
 -------------------------------
 
 how to use api bard
+
 1.google bard
 
 2.login
