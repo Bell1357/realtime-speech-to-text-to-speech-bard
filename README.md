@@ -15,7 +15,6 @@ https://www.ultimatepython.co/post/speech-to-text-python
  
 https://github.com/dsdanielpark/Bard-API
  - pip install bardapi
- - 
 ### dotenv MP.3
 
 https://pypi.org/project/python-dotenv/
