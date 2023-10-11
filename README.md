@@ -12,6 +12,7 @@ pip install dotenv
 pip install pyttsx3 // 4 
 
 -------------------------------
+![image](https://github.com/Bell1357/realtime-speech-to-text-to-speech-bard/assets/94211563/ad7f2185-c27b-40a0-8f11-373c2e276c18)
 
 change your voice
 
