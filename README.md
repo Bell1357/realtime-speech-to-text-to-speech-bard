@@ -1,6 +1,6 @@
 (1)
-
-##-------  install module  -------
+-------------------------------
+-------  install module  -------
 
 pip install SpeechRecognition
 
@@ -18,6 +18,8 @@ pip install pyttsx3 // 4
   -> Manage voice add Thai
 You can use another language.
 
+-------------------------------
+
 how to use api bard
 1.google bard
 
@@ -29,5 +31,7 @@ how to use api bard
 
 5.Cookie -> bard -> Name "__Secure-1PSID" -> copy (Value)
 
-if can't run clear cookie
+**if can't run clear cookie
+
+-------------------------------
 
