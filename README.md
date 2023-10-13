@@ -33,7 +33,7 @@ https://www.geeksforgeeks.org/python-text-to-speech-pyttsx-module/
  go to // All Settings -> Time & Language -> Speech
   -> Manage voice add Thai
 You can use another language.
-
+https://github.com/natchaipon/text_to_speech_thai
 🌐 how to use api bard
 -------------------------------
 
